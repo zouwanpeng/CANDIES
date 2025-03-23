@@ -24,6 +24,9 @@ You'll need to install the following packages in order to run the codes.
 
 ## Tutorial
 For the step-by-step tutorial, please refer to:
+![](https://github.com/zouwanpeng/CANDIES/tree/main/CANDIES/tutorial)
 
 ## Benchmarking methods
 In the paper, we compared CANDIES with 7 unimodal clustering methods, 2 non-spatial multi-omics approaches, and 4 spatial multi-omics techniques.
+
+## Downstream analyses
