@@ -7,19 +7,18 @@ Spatial multi-omics data provide a powerful platform for capturing diverse molec
 
 ## Requirements
 You'll need to install the following packages in order to run the codes.
-* python==3.8
-* torch>=1.8.0
-* cudnn>=10.2
-* numpy==1.22.3
-* scanpy==1.9.1
-* anndata==0.8.0
-* rpy2==3.4.1
-* pandas==1.4.2
-* scipy==1.8.1
-* scikit-learn==1.1.1
-* scikit-misc==0.2.0
-* tqdm==4.64.0
-* matplotlib==3.4.2
+* ﻿anndata==0.11.0
+* einops==0.8.0
+* esda==2.7.0
+* networkx==2.6
+* numpy==1.26.4
+* rpy2==3.5.16
+* scanpy==1.10.3
+* scikit-learn==1.5.2
+* squidpy==1.6.2
+* torch==2.5.1
+* torch-geometric==2.6.1
+* torchvision==0.20.1
 * R==4.0.3
 
 ## Tutorial
