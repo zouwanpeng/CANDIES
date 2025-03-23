@@ -3,7 +3,7 @@
 ## Abstract
 Spatial multi-omics data provide a powerful platform for capturing diverse molecular profiles, enabling the simultaneous analysis of multiple data modalities within the same tissue section. However, raw data are often plagued by significant noise, which poses a major challenge for accurate interpretation and integration analysis. To overcome this limitation, we introduce CANDIES, a novel and robust framework that harnesses the strengths of denoising diffusion probabilistic models (DDPM) and contrastive learning, effectively denoise spatial multi-omics data while generating a unified and comprehensive representation. This representation serves as a foundation for a wide array of downstream analyses, including denoising, spatial domain identification, pseudo-Spatiotemporal Map (pSM) construction, and trait domain association map generation. Through extensive evaluation across diverse datasets, we demonstrate that CANDIES consistently outperforms existing state-of-the-art methods, delivering more accurate, reliable, and biologically insightful results. As such, CANDIES stands as an invaluable tool for advancing spatial multi-omics research, offering researchers a powerful solution to unravel the intricacies of tissue organization and function.
 
-![](https://github.com)
+![](https://github.com/zouwanpeng/CANDIES/blob/main/CANDIES.png)
 
 ## Requirements
 You'll need to install the following packages in order to run the codes.
